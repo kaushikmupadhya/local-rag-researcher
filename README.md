@@ -56,8 +56,8 @@ Ensure you have the following installed:
 ### Setup
 #### Clone the Repository
 ```bash
-git clone https://github.com/kaymen99/local-rag-researcher-deepseek
-cd local-rag-researcher-deepseek
+git clone https://github.com/kaushikmupadhya/local-rag-researcher
+cd local-rag-researcher
 ```
 
 #### Create and Activate a Virtual Environment
